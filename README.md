@@ -1,75 +1,11 @@
-# Nuxt 3 Minimal Starter
+## Hi there 👋
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Hi, my name is Cleverson, I'm 29 years old and I live in Porto Alegre, RS - Brazil and even though I don't like football I support Grêmio, I really like programming, reading manga/hua/hwa, watching anime and series on my free time.
 
-## Setup
+I work as a Senior QA Automation Engineer for [DBServices](https://dbservices.pt) from home working on a project for Instituto de Informática de Portugal.
 
-Make sure to install the dependencies:
+I have knowledge with web and mobile development using Laravel and Nuxt.js, also with automated web and mobile testing using Python with RobotFramework, Cypress, Playwright, Nightwatch.js, Javascript/Typescript/Java with Selenium and several other languages, tools and frameworks.
 
-```bash
-# npm
-npm install
+A curious thing about me is that I have a hearing impairment, but I still hear and speak well, only at certain moments they are difficult, but nothing stops me from carrying out my work and daily life well.
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+If you are a recruiter, see my CV at [**sampaio.dev.br**](sampaio.dev.br) or want freelance work, get in touch via my email [**cleverson@sampaio.dev.br**](mailto:cleverson@sampaio.dev.br) and finally my [**LinkedIn**](https://www.linkedin.com/in/clesampaio) profile. 😁
