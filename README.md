@@ -8,4 +8,4 @@ I have knowledge with web and mobile development using Laravel and Nuxt.js, also
 
 A curious thing about me is that I have a hearing impairment, but I still hear and speak well, only at certain moments they are difficult, but nothing stops me from carrying out my work and daily life well.
 
-If you are a recruiter, see my CV at [**sampaio.dev.br**](sampaio.dev.br) or want freelance work, get in touch via my email [**cleverson@sampaio.dev.br**](mailto:cleverson@sampaio.dev.br) and finally my [**LinkedIn**](https://www.linkedin.com/in/clesampaio) profile. 😁
+If you are a recruiter, see my CV at [**sampaio.dev.br**](sampaio.dev.br) or want freelance work, get in touch via my email [**cleverson@sampaio.dev.br**](mailto:cleverson@sampaio.dev.br) and finally my [**LinkedIn**](https://www.linkedin.com/in/clvrsnsampaio) profile. 😁
