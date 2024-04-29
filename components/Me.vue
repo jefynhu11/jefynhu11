@@ -28,7 +28,7 @@
                 </a>
             </div>
         </div>
-        <img src="/me.jpeg" alt="Cleverson Sampaio" class="w-28 rounded-full" />
+        <img src="https://avatars.githubusercontent.com/u/146900991?v=4" alt="Cleverson Sampaio" class="w-28 rounded-full" />
     </div>
 </template>
 
