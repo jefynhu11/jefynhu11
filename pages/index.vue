@@ -11,6 +11,6 @@
 
 <script setup lang="ts">
 useSeoMeta({
-	title: 'Cleverson Sampaio | Senior QA Automation Engineer',
+	title: 'Jeferson Lopes Eugenio',
 });
 </script>
