@@ -6,7 +6,7 @@
                 <div class="flex flex-col gap-1">
                     <h3 class="font-semibold text-base">Instituto de Informática</h3>
                     <p class="text-pretty font-mono text-sm text-gray-500">
-                        Automated web tests for key management platform and mobile tests for social security.
+                        Automated web tests for key management platform.
                     </p>
                 </div>
                 <div class="flex flex-wrap gap-1">
