@@ -5,7 +5,7 @@
 		<Experience />
 		<Education />
 		<Skills />
-		<Projects />
+		<!--<Projects />-->
 	</section>
 </template>
 
