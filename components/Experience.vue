@@ -29,7 +29,7 @@
             </div>
             <div class="flex flex-col gap-1">
                 <div class="flex items-center justify-between">
-                    <h3 class="font-semibold">Provincia Marista Brasil Sul Amazonia PMBSA</h3>
+                    <h3 class="font-semibold">Centro Social Marista Mario Quintana</h3>
                     <div class="text-sm tabular-nums text-gray-500">Apr 2009 - Mar 2014</div>
                 </div>
                 <h4>Educator</h4>
